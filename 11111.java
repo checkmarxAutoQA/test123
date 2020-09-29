@@ -8,6 +8,7 @@ import ScalaJdbcConnectSelect;
 public class JdbcSelectTest extends ScalaJdbcConnectSelect {   // Save as "JdbcSelectTest.java"
    public static void main(String[] args) {
 	   //hgfjhgjhgfjhgf
+	   //hgfjhgjhgfjhgf
 	   InputStreamReader in = new InputStreamReader(System.in);
 	    InputStreamReader in10 = new InputStreamReader(System.in);
 	   InputStreamReader in100 = new InputStreamReader(System.in);
