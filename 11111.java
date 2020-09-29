@@ -4,6 +4,7 @@ import ScalaJdbcConnectSelect;
 
  
 // JDK 1.7 and above
+//fae,kbdnekfjbhdrje
 public class JdbcSelectTest extends ScalaJdbcConnectSelect {   // Save as "JdbcSelectTest.java"
    public static void main(String[] args) {
 	   
