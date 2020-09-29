@@ -18,6 +18,7 @@ public class JdbcSelectTest extends ScalaJdbcConnectSelect {   // Save as "JdbcS
 	   InputStreamReader in = new InputStreamReader(System.in);
 	    //InputStreamReader in = new InputStreamReader(System.in);
 	    InputStreamReader in1 = new InputStreamReader(System.in);
+	   InputStreamReader in1 = new InputStreamReader(System.in);
        BufferedReader br = new BufferedReader(in);
        String strSelect1 = br.readLine();
 	    BufferedReader br = new BufferedReader(in);
