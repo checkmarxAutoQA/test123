@@ -1,6 +1,7 @@
 import java.sql.*;   // Use 'Connection', 'Statement' and 'ResultSet' classes in java.sql package
 import java.io.*;
 import ScalaJdbcConnectSelect;
+import ScalaJdbcConnectSelect;
 
  
 // JDK 1.7 and above
