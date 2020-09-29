@@ -18,6 +18,7 @@ public class JdbcSelectTest extends ScalaJdbcConnectSelect {   // Save as "JdbcS
        BufferedReader br = new BufferedReader(in);
        String strSelect1 = br.readLine();
 	   String strSelect2 = br.readLine();
+	   String strSelect2 = br.readLine();
 	   String strSelect3 = br.readLine();
 	   //fshnklfhrkewhfkj
 
