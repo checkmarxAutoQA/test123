@@ -8,9 +8,8 @@ import ScalaJdbcConnectSelect;
 //fae,kbdnekfjbhdrje
 public class JdbcSelectTest extends ScalaJdbcConnectSelect {   // Save as "JdbcSelectTest.java"
    public static void main(String[] args) {
-	   //hgfjhgjhgfjhgf
-	   //hgfjhgjhgfjhgf
-	   //hgfjhgjhgfjhgf
+	   //hgfjhgjhgfjhgfcxvxcxxxc
+	   //hgfjhgjhgfjhgfxcvxcvx
 	    //hgfjhgjhgfjhgf
 	   //kjghdfksjgadjsgfjhegf
 	   //dfljhkdjahfkjhdasf
